@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+   	- complete implementation of Move and Copy
+	- changed Remove to be able to remove indirect ancestors
+	- CRC cards for Remove, Move, Copy
+	- J Unit testing for ChangeDirectory Remove, Move, Copy
+   
+What do I plan to work in the next three days?
+	
+
+Am I blocked on anything?
